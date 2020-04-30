@@ -8,51 +8,31 @@ we can see that the 6th prime is 13.
 What is the 10 001st prime number?
 
 """
-from collections import defaultdict
-from itertools import count, islice
+from functools import reduce
+from itertools import islice
+from math import sqrt
 
-def sieve():
-    numbers = []
-    n = 2
+
+def generator_p_num():
+    i = 2
     while True:
-        if numbers[n]:
-            print("ahoj")
-        else:
-            numbers.append((n * n, n))
-            yield n
-        n =+ 1
+        factors = list(islice(filter(lambda x: i % x == 0, [x for x in range(2, int(sqrt(i)+1))]), 1))
+        if len(factors) == 0:
+            yield i
+        i += 1
 
-
-
-def _sieve_of_eratosthenes():
-    factors = defaultdict(set)
-    print(factors)
-
-    for n in count(2):
-        print("tu")
-        print(n)
-        # ak take cislo existuje
-        if factors[n]:
-            for m in factors.pop(n):
-                print("ahoj")
-                print(m)
-                print(factors)
-                factors[n+m].add(m)
-                print(factors)
-        else:
-            factors[n*n].add(n)
-            print(n)
-            print(factors)
-            yield n
 
 def problem_2():
+    generator = generator_p_num()
+    counter = 0
+    while True:
+        counter += 1
+        p_number = next(generator)
 
-    object = _sieve_of_eratosthenes()
-    next(object)
-    next(object)
-    next(object)
-
-    next(object)
+        if counter == 10001:
+            print(p_number)
+            # print(reduce(lambda x,y: x+y,p_numbers))
+            break
 
 
 
