@@ -35,6 +35,5 @@ def problem_2():
             break
 
 
-
 if __name__ == '__main__':
     problem_2()

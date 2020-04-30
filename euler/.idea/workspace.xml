@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c9cc1bc-22ba-480f-a438-caea24847abd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/problem_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -132,7 +131,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +165,7 @@
       <workItem from="1588139054983" duration="2470000" />
       <workItem from="1588142357048" duration="3402000" />
       <workItem from="1588147336655" duration="748000" />
-      <workItem from="1588223299612" duration="2896000" />
+      <workItem from="1588223299612" duration="3211000" />
     </task>
     <servers />
   </component>
