@@ -8,6 +8,7 @@ we can see that the 6th prime is 13.
 What is the 10 001st prime number?
 
 """
+
 from functools import reduce
 from itertools import islice
 from math import sqrt
