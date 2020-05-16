@@ -3,7 +3,7 @@
 
 """
 Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
-problem_20.txt
+problem_13.txt
 """
 
 from functools import reduce
@@ -18,8 +18,7 @@ def problem_13(numbers):
 
 if __name__ == '__main__':
     numbers = []
-
-    with open("problem_20.txt", "r") as f:
+    with open("problem_13.txt", "r") as f:
         for line in f:
             numbers.append(int(line.strip('\n')))
     problem_13(numbers)

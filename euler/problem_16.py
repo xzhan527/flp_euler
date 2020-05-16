@@ -15,7 +15,7 @@ def generator():
         exponent += 1
 
 
-def problem_34(number):
+def problem_16():
     obj = generator()
     exponent = 0
     while True:
@@ -29,6 +29,6 @@ def problem_34(number):
 
 
 if __name__ == '__main__':
-    problem_34(145)
+    problem_16()
 
 
