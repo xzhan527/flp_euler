@@ -1,8 +1,9 @@
-# Problem 10 : Summation of primes
-# https://projecteuler.net/problem=10
+# Problem 80 : Square root digital expansion
+# https://projecteuler.net/problem=80
 
 """
-Find the sum of all the primes below two million.
+For the first one hundred natural numbers, find the total of the digital sums of the first one hundred decimal digits
+for all the irrational square roots
 """
 from decimal import *
 from functools import reduce
