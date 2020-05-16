@@ -33,9 +33,5 @@ def problem_4():
     print(number)
 
 
-
-
-
-
 if __name__ == '__main__':
     problem_4()

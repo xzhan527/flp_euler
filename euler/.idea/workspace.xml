@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c9cc1bc-22ba-480f-a438-caea24847abd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problem_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem_36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem_8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem_35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem_80.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem_16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem_20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/problem_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem_4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.problem_16">
+  <component name="RunManager" selected="Python.problem_5">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem_25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="problem_26" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +135,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="problem_35" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +157,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_35.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem_63" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="problem_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,7 +179,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_36.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="problem_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,7 +201,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,19 +212,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.problem_25" />
-      <item itemvalue="Python.problem_4" />
-      <item itemvalue="Python.problem_8" />
-      <item itemvalue="Python.problem_63" />
       <item itemvalue="Python.problem_16" />
+      <item itemvalue="Python.problem_7" />
+      <item itemvalue="Python.problem_35" />
+      <item itemvalue="Python.problem_5" />
+      <item itemvalue="Python.problem_26" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.problem_5" />
+        <item itemvalue="Python.problem_26" />
+        <item itemvalue="Python.problem_35" />
+        <item itemvalue="Python.problem_7" />
         <item itemvalue="Python.problem_16" />
-        <item itemvalue="Python.problem_63" />
-        <item itemvalue="Python.problem_8" />
-        <item itemvalue="Python.problem_4" />
-        <item itemvalue="Python.problem_25" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +243,7 @@
       <workItem from="1588147336655" duration="748000" />
       <workItem from="1588223299612" duration="4494000" />
       <workItem from="1589536027897" duration="1475000" />
-      <workItem from="1589543053824" duration="25645000" />
+      <workItem from="1589543053824" duration="35715000" />
     </task>
     <servers />
   </component>
@@ -270,11 +265,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/euler$problem_8.coverage" NAME="problem_8 Coverage Results" MODIFIED="1589580607610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/euler$problem_5.coverage" NAME="problem_5 Coverage Results" MODIFIED="1589561945191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/euler$problem_5.coverage" NAME="problem_5 Coverage Results" MODIFIED="1589623578702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/euler$problem_35.coverage" NAME="problem_35 Coverage Results" MODIFIED="1589623565245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/euler$problem_13.coverage" NAME="problem_13 Coverage Results" MODIFIED="1589575169212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/euler$problem_26.coverage" NAME="problem_26 Coverage Results" MODIFIED="1589623570051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/euler$problem_4.coverage" NAME="problem_4 Coverage Results" MODIFIED="1589578257681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/euler$problem_34.coverage" NAME="problem_34 Coverage Results" MODIFIED="1589546962496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/euler$problem_7.coverage" NAME="problem_7 Coverage Results" MODIFIED="1589575172996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/euler$problem_7.coverage" NAME="problem_7 Coverage Results" MODIFIED="1589589336910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/euler$problem_63.coverage" NAME="problem_63 Coverage Results" MODIFIED="1589587260814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/euler$problem_48.coverage" NAME="problem_48 Coverage Results" MODIFIED="1589575155367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/euler$problem_16.coverage" NAME="problem_16 Coverage Results" MODIFIED="1589587771697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
